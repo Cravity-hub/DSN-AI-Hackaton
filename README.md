@@ -98,4 +98,4 @@ Example (replace with actual commands):
 
 
 ## Contact / Contributors
-- List contributors and roles in CONTRIBUTORS.md.
+- Bouwatife Oludupin - bolu.oludupin@gmail.com
