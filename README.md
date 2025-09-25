@@ -99,6 +99,3 @@ Example (replace with actual commands):
 
 ## Contact / Contributors
 - List contributors and roles in CONTRIBUTORS.md.
-
----
-This README is a template. Replace placeholder paths, commands, and dataset details with project-specific values before producing results or sharing artifacts.
